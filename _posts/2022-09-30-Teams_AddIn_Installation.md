@@ -1,4 +1,9 @@
 
+---
+title: "Teams AddIn Installation in Outlook Desktop Client"
+date: 2022-09-30
+---
+
 Follow the steps mentioned under "Fix the issue manually" in this page - https://learn.microsoft.com/en-us/MicrosoftTeams/troubleshoot/meetings/resolve-teams-meeting-add-in-issues
 
 Command
