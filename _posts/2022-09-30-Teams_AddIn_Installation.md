@@ -26,7 +26,9 @@ Select the checkbox next to Microsoft Teams Meeting Add-in for Microsoft Offic
 
 Select OK on all the dialog boxes that are open and restart Outlook.
 
-![image](https://user-images.githubusercontent.com/5275820/193177052-a7b7598d-ac21-4425-bc16-33202b31a552.png)
+![image](https://user-images.githubusercontent.com/5275820/193177410-a49306dc-0554-4378-88ca-539ef022e260.png)
+
+![image](https://user-images.githubusercontent.com/5275820/193177548-4d348faf-019a-4d85-85ec-37333ea6e990.png)
 
 Above steps didnt work to add the addin. So, I have the follow the manual process
 
